@@ -1,6 +1,7 @@
 # SUPERSTORE-SALES-DASHBOARD
 I developed an end-to-end Superstore Sales Dashboard to analyze sales performance and uncover actionable insights. Using Excel, SQL, and Power BI, I transformed raw data into a powerful business intelligence tool.
 
+<img src="https://github.com/nikhil21418/SUPERSTORE-SALES-DASHBOARD/blob/89c8e2be9f9450fac7dafc421d43dd5dbc60ae51/Screenshot%202025-10-02%20202234.png" alt="Image Description" width="600">
 # Superstore Sales Analysis & Interactive Dashboard
 
 ## Project Overview
